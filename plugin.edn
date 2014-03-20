@@ -1,0 +1,5 @@
+{:name "GitBlame"
+ :author ""
+ :source ""
+ :desc "Awesome git blame plugin for light table"
+ :behaviors "gitblame.behaviors"}

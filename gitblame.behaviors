@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "gitblame_compiled.js" true)]
+     :editor [(:lt.objs.editor/on-change :git-blame-test)]}}
